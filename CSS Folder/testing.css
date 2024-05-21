@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border box;
+    font-family:'Poppins',font-size;
+}
+
+body { 
+    
+display: flex;
+justify-content: center;
+align-items: top;
+background:#EEEEEE ;
+
+}
+
+.feature{
+    padding:5% ;
+}
+
+img {
+height: 233px;
+width: 230px;
+max-width:auto;
+height: auto;
+
+
+
+}
+
+.textbox{
+    color:black;
+}
+.textbox h2{
+    font-size: 2.8rem;
+}
+.textbox p{
+    font-size: 20px;
+}
+  
+ 
